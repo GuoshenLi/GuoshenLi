@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuoshenLi
-- 👀 I’m interested in machine learning, deep learning, recommendation system, computation advertising.
+- 👀 I’m interested in machine learning, deep learning, especially recommendation, ads and search.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
